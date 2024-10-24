@@ -11,5 +11,3 @@ sc delete %SRVCNAME%
 sc create %SRVCNAME% binPath= "\"%~dp0winws.exe\" %ARGS%" DisplayName= "SManDIS micro-service: %SRVCNAME%" start= auto
 sc description %SRVCNAME% "SManDIS micro-service"
 sc start %SRVCNAME%
-pause
-
