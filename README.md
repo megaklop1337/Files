@@ -1,0 +1,1 @@
+This repository is a library for updating QuickNet (from SiresMacro and Dis). QuickNet was created to connect to YouTube, discord, and other slow-motion services by a good company RCS (roscomsupervision)
