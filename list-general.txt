@@ -45,6 +45,7 @@ ggpht.com
 googleapis.com
 googleusercontent.com
 googlevideo.com
+rr4---sn-q4fl6nsl.googlevideo.com
 gvt1.com
 help.steampowered.com
 help.twitch.tv
@@ -169,4 +170,3 @@ onlineinstagram.com
 theinstagramhack.com
 web-instagram.net
 wwwinstagram.com
-
