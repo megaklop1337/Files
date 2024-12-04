@@ -2,6 +2,7 @@
 7tv.app
 7tv.gg
 7tv.io
+jut.su
 akamai.steamstatic.com
 amazon.com
 api.steampowered.com
